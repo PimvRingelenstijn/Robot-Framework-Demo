@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```
 5. Verify the installation was successful
 ```bash
-robot .\tests\simple_robot_test.robot
+robot .\tests\test.robot
 ```
 
 ## Documentation
